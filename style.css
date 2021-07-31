@@ -1,0 +1,34 @@
+.container-fluid {
+  background-color: #264653;
+  font-family: "Poppins", sans-serif;
+}
+.color-btn {
+  background-color: #e4380d;
+  height: 48px;
+  width: 172px;
+  border-radius: 5px;
+  padding: 10px;
+  border: none;
+  font-weight: 700;
+  color: white;
+}
+.modal {
+  overflow-x: hidden;
+}
+.scale {
+  filter: grayscale(100%);
+}
+.color-change {
+  color: #e76f51;
+}
+.client-name {
+  color: rgb(25, 158, 211);
+}
+.light-btn {
+  height: 48px;
+  width: 172px;
+  border-radius: 5px;
+  padding: 10px;
+  color: #e4380d;
+  font-weight: 700;
+}
